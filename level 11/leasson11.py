@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #1) გააკეთეთ 30 მაგალითი შედარებით ოპერატორებზე. 
 print(5 > 4)
 print(10 > 9)
@@ -40,3 +41,11 @@ print(10029827373 != 1)
 age1 = input("First user age: ")
 age2 = input("Second user age: ")
 print(age1 < age2)
+=======
+
+
+
+
+
+
+>>>>>>> 1c1cb0dd149bb18b0d44392e1bde4c56a6a2115b
